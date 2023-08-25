@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Wilfran Lazaro</h1>
 <h3 align="left"> learning to be a front end developer</h3>
 
-- 🌱 Im currently learning on Platzi **React.js, Vite.js and TailwindCSS**
+- 🌱 Im currently learning on Platzi **React.js, Vite.js and TailwindCSS** interested in working on open source projects or new web page proposals
 
 - 📫 How to reach me **wilfranisai@hotmail.com**
 
